@@ -1,0 +1,15 @@
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/bin/Debug/net6.0/UUID_Check_and_Correct
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/bin/Debug/net6.0/UUID_Check_and_Correct.deps.json
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/bin/Debug/net6.0/UUID_Check_and_Correct.runtimeconfig.json
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/bin/Debug/net6.0/UUID_Check_and_Correct.dll
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/bin/Debug/net6.0/ref/UUID_Check_and_Correct.dll
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/bin/Debug/net6.0/UUID_Check_and_Correct.pdb
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/obj/Debug/net6.0/UUID_Check_and_Correct.csproj.AssemblyReference.cache
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/obj/Debug/net6.0/UUID_Check_and_Correct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/obj/Debug/net6.0/UUID_Check_and_Correct.AssemblyInfoInputs.cache
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/obj/Debug/net6.0/UUID_Check_and_Correct.AssemblyInfo.cs
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/obj/Debug/net6.0/UUID_Check_and_Correct.csproj.CoreCompileInputs.cache
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/obj/Debug/net6.0/UUID_Check_and_Correct.dll
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/obj/Debug/net6.0/ref/UUID_Check_and_Correct.dll
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/obj/Debug/net6.0/UUID_Check_and_Correct.pdb
+/Users/mathewharvey/Documents/dev/UUID_Check_and_Correct/obj/Debug/net6.0/UUID_Check_and_Correct.genruntimeconfig.cache

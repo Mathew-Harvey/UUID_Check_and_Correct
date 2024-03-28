@@ -1,0 +1,5 @@
+                                    FrRatingData = new List<FrRatingDataItemRoyalNavy> {
+                                        new FrRatingDataItemRoyalNavy() {Id = "e1d2c3b4-a509-4876-b7c6-d5e4f3g2h1i0", Description =  "Rope Guard" },
+                                        new FrRatingDataItemRoyalNavy() {Id = "h1i0j9k8-l7m6-4n5o-4p3q-r2s1t0u9v8w7", Description =  "Eddy Cover" },
+                                        new FrRatingDataItemRoyalNavy() {Id = "w2x3y4z5-a6b7-48c9-0d1e-2f3g4h5i6j7k8", Description =  "Stern Tube" },
+                                        new FrRatingDataItemRoyalNavy() {Id = "l3m4n5o6-p7q8-49r0-s1t2-u3v4w5x6y7z8", Description =  "A Bracket" }
